@@ -10,6 +10,7 @@ namespace HelloWorld {
             person1.getDob = "10 June, 2019";
             person1.getEmail = "email@email.com";
             person1.getAddress = "Dhaka";
+
             Console.WriteLine(person1.getName);
             Console.WriteLine(person1.getId);
             Console.WriteLine(person1.getDob);
