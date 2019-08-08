@@ -16,6 +16,9 @@ namespace HelloWorld {
             Console.WriteLine(person1.getDob);
             Console.WriteLine(person1.getEmail);
             Console.WriteLine(person1.getAddress);
+
+            person1.walk();
+            person1.eat();
         }
 
     }
